@@ -23,6 +23,7 @@ It's a pleasure to meet you, <strong> I'm Murilo { MullerHub } </strong> ğŸ‘‹ğŸ˜
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="52" alt="Windows logo"   />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" width="52" alt="Virtual Studio code logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="Virtual Studio code logo" />
 </span>
 <br>
 <br>
