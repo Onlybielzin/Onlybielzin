@@ -37,7 +37,7 @@ It's a pleasure to meet you, <strong> I'm Murilo { MullerHub } </strong> ğŸ‘‹ğŸ˜
 <br> <br/>
 
 <div align="center">
-  <a href="https://github.com/mullerhub">
+  <a href="https://github.com/onlybielzin">
 
   <img height="550px" src="https://github-readme-stats.vercel.app/api/wakatime/?username=mullerhub&layout=compact&theme=tokyonight"/>
 </div>
