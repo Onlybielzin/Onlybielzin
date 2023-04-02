@@ -6,16 +6,16 @@
   <img align = "right" width = "450px"  src = "https://user-images.githubusercontent.com/92947069/154335053-22a28e51-b6a5-4c86-97ff-a39511b37672.gif">
   <img height = "100px" src="https://user-images.githubusercontent.com/92947069/183308602-5b5810ac-0990-45e6-b448-043c239db400.gif"/>
 
-It's a pleasure to meet you, <strong> I'm Murilo { MullerHub } </strong> 👋😄 
+It's a pleasure to meet you, <strong> I'm Murilo { MullerHub } </strong> :wave::smile: 
 
-- [x] From Brazil 📍
-- [x] Web development 👨‍🎓
-- [x] Focused on FullStack development 👨‍💻
-- [x] Evolving in Node.js, React.js, Back-end, API's and more... 🧠
-- [x] Looking for the first job as a developer 🤞
+- [x] From Brazil :round_pushpin:
+- [x] Web development :man_student:
+- [x] Focused on FullStack development :man_technologist:
+- [x] Evolving in Node.js, React.js, Back-end, API's and more... :brain:
+- [x] Looking for the first job as a developer :fingers_crossed:
 <br>
 
-## 💻 Tech Stack:
+## :computer: Tech Stack:
 
 <span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
@@ -25,9 +25,11 @@ It's a pleasure to meet you, <strong> I'm Murilo { MullerHub } </strong> 👋�
 <br>
 <br>
 
-## 🌐 Contact:
+## :globe_with_meridians: Contact:
 
-<a href="#"><img src="[https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white](https://discord.gg/JjKmze57yH)" title="Biel'97#7647" alt="Discord Badge" height="20"></a>&nbsp;
+<a href="https://www.linkedin.com/in/mullerhub" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20"></a>&nbsp;
+<a href="https://mailto:murilomuller@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email: protonmail Badge" height="20"></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" title="Murilo_Muller#6252" alt="Discord Badge" height="20"></a>&nbsp;
 <a href="https://www.github.com/mullerhub" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="20"></a>&nbsp;
 
 <img align="left" src="https://profile-counter.glitch.me/mullerhub/count.svg?"  />
@@ -35,7 +37,7 @@ It's a pleasure to meet you, <strong> I'm Murilo { MullerHub } </strong> 👋�
 <br> <br/>
 
 <div align="center">
-  <a href="https://github.com/onlybielzin">
+  <a href="https://github.com/Onlybielzin">
 
   <img height="550px" src="https://github-readme-stats.vercel.app/api/wakatime/?username=mullerhub&layout=compact&theme=tokyonight"/>
 </div>
