@@ -29,9 +29,9 @@ It's a pleasure to meet you, <strong> I'm Murilo { MullerHub } </strong> :wave::
 
 
 <a href="https://discord.gg/JjKmze57yH"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" title="Murilo_Muller#6252" alt="Discord Badge" height="20"></a>&nbsp;
-<a href="https://www.github.com/mullerhub" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="20"></a>&nbsp;
+<a href="https://www.github.com/onlybielzin" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="20"></a>&nbsp;
 
-<img align="left" src="https://profile-counter.glitch.me/mullerhub/count.svg?"  />
+<img align="left" src="https://profile-counter.glitch.me/Onlybielzin/count.svg?"  />
 
 <br> <br/>
 
